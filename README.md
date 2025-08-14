@@ -1,9 +1,9 @@
 # Password-Generator-
 
-A **Java ** Swing GUI application to generate meaningful yet secure passwords using random words, numbers, and symbols.
+A Java Swing GUI application to generate meaningful yet secure passwords using random words, numbers, and symbols.
 Customizable options let you choose the password length and character types — so you get memorable but strong passwords every time.
 
-** Features**
+## Features
 
 Set Password Length — default 14 characters
 
@@ -17,7 +17,7 @@ Copy to Clipboard with one click
 
 User-friendly GUI built with Java Swing
 
-**Technologies Used**
+##  Technologies Used
 
 Java Swing (for GUI)
 
